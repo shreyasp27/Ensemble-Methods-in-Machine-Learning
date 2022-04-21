@@ -1,7 +1,7 @@
 # Ensemble-Methods-in-Machine-Learning
 
-In this project on Ensemble Methods in Machine Learning is divided into following tasks:
-We implement different Ensemble Methods on wine data.
+In this project we implement different Ensemble Methods in Machine Learning on wine data. The project is divided into following tasks and the observations are given below:
+
 
 Task 1: Implement Bagging 
 Bagging Classifier with Decision Tree Classifier as base_estimator gives an accuracy of 75.84%.
